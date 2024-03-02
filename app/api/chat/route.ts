@@ -63,7 +63,7 @@ function createParser(
   });
 }
 
-export function LlamaIndexStream(
+function LlamaIndexStream(
   res: AsyncIterable<Response>,
   opts?: {
     callbacks?: AIStreamCallbacksAndOptions;
