@@ -13,6 +13,10 @@ const exampleMessages = [
     message: 'O que o partido Y propõe para a saúde? \n'
   },
   {
+    heading: 'Como o partido Z pretende abordar a questão ambiental?',
+    message: 'Como o partido Z pretende abordar a questão ambiental? \n'
+  },
+  {
     heading: 'Quais são as principais propostas dos partidos para a economia?',
     message: `Quais são as principais propostas dos partidos para a economia? \n`
   }
