@@ -164,7 +164,7 @@ export async function POST(req: Request) {
   if(!success || !successSession) {
     return new Response('Demasiadas perguntas! Tenta novamente mais tarde.', {
           status: 429
-        });
+        } as any) as any;
   }
 
   const json = await req.json()
