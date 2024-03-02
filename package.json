@@ -69,5 +69,10 @@
     "tsx": "^4.7.1",
     "typescript": "^5.3.3"
   },
-  "packageManager": "pnpm@8.6.3"
+  "packageManager": "pnpm@8.6.3",
+  "pnpm": {
+    "overrides": {
+      "sharp": "../DONT_INCLUDE"
+    }
+  }
 }
