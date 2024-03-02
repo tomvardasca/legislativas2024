@@ -32,6 +32,9 @@ export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
         <p className="mb-2 leading-normal text-muted-foreground">
           Este assistente foi especialmente preparado para fornecer informações sobre os programas eleitorais dos partidos para as eleições legislativas de 2024 em Portugal. Foi treinado para incluir detalhes dos programas eleitorais dos partidos. Com uma abordagem neutra e baseada em fatos, o assistente visa ajudar os eleitores a fazer escolhas informadas, sem emitir opiniões políticas ou especulações.
         </p>
+        <p className="mb-2 leading-normal text-muted-foreground">
+          Este assistente é limitado a 5 perguntas a cada 4 horas.
+        </p>
         <p className="leading-normal text-muted-foreground">
           Pode tentar um dos seguintes exemplos:
         </p>
