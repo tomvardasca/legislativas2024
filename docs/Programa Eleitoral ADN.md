@@ -1,0 +1,562 @@
+# Programa eleitoral do ADN 
+
+## Programa Eleitoral Legislativas
+
+2024 
+UM PROGRAMA POLÍTICO TEM DE SER MAIS DO QUE UM MERO DOCUMENTO ELEITORAL, SEM QUALQUER VÍNCULO OU OBRIGAÇÁO FUTURA. 
+
+O 
+PARTIDO 
+ALTERNATIVA 
+DEMOCRÁTICA 
+NACIONAL 
+APRESENTA UM PROGRAMA ELEITORAL QUE É UM COMPROMISSO INDISSOLÚVEL COM  PORTUGAL E COM OS PORTUGUESES. 
+
+INTRODUÇÃO  ............................................................................................................................................... 4 
+ 
+PROGRAMA ELEITORAL  .......................................................................................................................... 5 MEDIDAS ADN PARA MUDAR **PORTUGAL**  .......................................................................................... 5 
+1. CRIAÇÃO DO CONTRATO ELEITORAL ......................................................................................... 5 2. REDUÇÃO GLOBAL DOS IMPOSTOS ............................................................................................. 5 3. LICENÇA DE MATERNIDADE .......................................................................................................... 5 4. ACESSO À JUSTIÇA  .......................................................................................................................... 5 5. FUNÇÃO PÚBLICA ............................................................................................................................. 5 
+6. OPOSIÇÃO AO "TRATADO PANDÉMICO"  ................................................................................... 5 7. FORÇAS DE SEGURANÇA  ............................................................................................................... 5 8. AVALIAÇÃO DOS JUÍZES E MAGISTRADOS DO MP .................................................................. 6 9. IMPEDIR NOVAS INCONSTITUCIONALIDADES .......................................................................... 6 10. 
+INCOMPATIBILIDADES DOS DEPUTADOS .................................................................... 6 
+11. JUSTIÇA PARA QUEM DESCONTOU ............................................................................................ 6 12.  DINHEIRO FÍSICO  .......................................................................................................................... 6 13.  SERVIÇO MILITAR ......................................................................................................................... 6 14.  DOUTRINAÇÃO DA IDEOLOGIA DE GÉNERO  ......................................................................... 6 15.  MUDANÇAS DE SEXO OU DE NOME  ......................................................................................... 6 16.  LINGUAGEM NEUTRA  .................................................................................................................. 6 17. "LEI DA DROGA"  ............................................................................................................................. 7 18.  COMBATER A IMIGRAÇÃO ILEGAL  .......................................................................................... 7 19.  REVERTER A LEI DA NACIONALIDADE  .................................................................................. 7 20.  ACESSO AO SNS A ESTRANGEIROS ........................................................................................... 7 21.  MIGRAÇÃO E ASILO ...................................................................................................................... 7 22.  INTERRUPÇÃO VOLUNTÁRIA DA GRAVIDEZ (IVG) .............................................................. 7 23.  EUTANÁSIA E SUÍCIDIO MEDICAMENTE ASSISTIDO  .......................................................... 7 24.  TRANSPARÊNCIA NO SNS  ........................................................................................................... 7 25.  ADSE .................................................................................................................................................. 7 26.  ACORDO ORTOGRÁFICO  ............................................................................................................. 8 27.  COMBATE A INCÊNDIOS  ............................................................................................................. 8 28.  DEFENDER A SEGURANÇA E A QUALIDADE ALIMENTAR  ................................................. 8 29.  DEFESA DA PROPRIEDADE PRIVADA  ...................................................................................... 8 30.  MERCADO ENERGÉTICO  ............................................................................................................. 8 31.  FROTA AUTOMÓVEL DO ESTADO ............................................................................................. 8 32.  FACTURA NOS SERVIÇOS PÚBLICOS  ....................................................................................... 8 33.  TECTO MÁXIMO DE REFORMA  .................................................................................................. 8 
+34.  APOIOS À BANCA  .......................................................................................................................... 8 
+35.  BANCO DE PORTUGAL  ................................................................................................................. 8 
+36.  SUBVENÇÕES VITALÍCIAS  .......................................................................................................... 9 37.  INTERIOR DO PAÍS  ........................................................................................................................ 9 
+38.  FISCALIZAÇÃO DOS APOIOS ESTATAIS A PESSOAS SINGULARES ................................... 9 39.  IMI - PARTIDOS POLÍTICOS  ......................................................................................................... 9 40.  CERTIFICADO DIGITAL DE VACINAÇÃO ................................................................................. 9 41.  JORNALISMO vs POLÍTICA  .......................................................................................................... 9 42.  DESPESA DO ESTADO ................................................................................................................... 9 43.  RECURSO DE AMPARO ................................................................................................................. 9 44.  TRATADOS E REFERENDOS  ........................................................................................................ 9 
+45.  ANTIGOS COMBATENTES  ........................................................................................................... 9 
+ 
+MEDIDAS ESPECÍFICAS PARA CADA ÁREA OU SECTOR  ............................................................. 10 
+A. AGRICULTURA E PESCAS ....................................................................................................................... 10 B. AMBIENTE ....................................................................................................................................................  10 C. APOIO AO EMPREGO ................................................................................................................................. 10 D. CULTURA ....................................................................................................................................................... 10 E. DEFESA NACIONAL ..................................................................................................................................  11 F. DESCENTRALIZAÇÃO TERRITORIAL E PODER LOCAL .............................................................. 11 G. DESPESA PÚBLICA ..................................................................................................................................... 11 H. DESPORTO ..................................................................................................................................................... 11 I. EDUCAÇÃO ................................................................................................................................................... 12 J. EUROPA .......................................................................................................................................................... 12 K. FAMÍLIA ......................................................................................................................................................... 12 L. FISCALIDADE ............................................................................................................................................... 13 M. IMIGRAÇÃO, EMIGRAÇÃO E MIGRAÇÃO ......................................................................................... 13 
+N. INCLUSÃO/INTEGRAÇÃO ........................................................................................................................ 13 
+O. JUSTIÇA .......................................................................................................................................................... 14 P. JUVENTUDE .................................................................................................................................................. 14 Q. SAÚDE ……………………………………………………………………………………………………………………. .................................. 14 R. SEGURANÇA E PROTECÇÃO CIVIL ..................................................................................................... 14 S. SEGURANÇA SOCIAL  ............................................................................................................................... 14 T. TRANSPORTES ............................................................................................................................................. 14 U. REGIÕES AUTÓNOMAS ............................................................................................................................ 14 V. SECTOR DAS PESCAS  ............................................................................................................................... 15 CONTRATO ELEITORAL  ................................................................................................................................... 16 
+A. DEMOCRACIA REPRESENTATIVA REFERENDÁRIA CONSULTIVA ........................................ 16 B. DEFESA DA CONSTITUIÇÃO E SUA MELHORIA  ............................................................................ 16 C. REFORMA DA JUSTIÇA ............................................................................................................................. 16 D. CHOQUE FISCAL  ........................................................................................................................................ 17 E. HABITAÇÃO .................................................................................................................................................. 17 F. SAÚDE ............................................................................................................................................................. 17 G. EDUCAÇÃO ................................................................................................................................................... 17 H. POLÍTICA INTERNACIONAL ................................................................................................................... 17 
+
+Numa época em que o Governo da República está a recorrer a um Plano de Recuperação e Resiliência para retirar o país de mais uma bancarrota provocada pelo Partido Socialista, é imperativo que Portugal e os portugueses sejam defendidos, para conseguirmos superar a situação de grande dificuldade económica ou de extrema pobreza que muitos diariamente enfrentam. Assim, apresentamos o programa eleitoral da Alternativa Democrática Nacional para as eleições legislativas de 2024. O nosso ADN é lutar contra os interesses dos políticos profissionais, dos partidos políticos corruptos e dos grandes grupos empresariais corruptores. É tempo de dar oportunidade a quem não fez da política a sua profissão e de apoiar uma verdadeira Alternativa Democrática para Portugal. O Programa Eleitoral do ADN é inovador porque não pode ser catalogado de acordo com a velha dicotomia esquerda/direita e, ao contrário do que defendem todos os restantes partidos, tenta dar uma resposta política capaz de garantir as necessidades e realização dos objectivos pessoais de todos os portugueses nesta sociedade de incertezas, desumanização e lógica economicista. É imperativo assegurar a participação efectiva dos cidadãos nas decisões colectivas, rompendo a muralha que se ergueu entre o povo e o poder político. O partido ADN afirma-se como a única alternativa sólida e credível, trazendo novas ideias e novos protagonistas para a política. Queremos atrair a maioria silenciosa constituída pelos cidadãos eleitores que se abstêm de votar, desiludidos da política e dos políticos carreiristas. No estado actual em que nos encontramos, a neutralidade não é uma opção. Queremos atrair também os descontentes de todos os quadrantes políticos e ideológicos. Temos de convencer os eleitores a não continuarem a votar nos mesmos partidos por mero clubismo, apesar de estarem insatisfeitos com a governação da região e terem consciência de que esses partidos defendem apenas a manutenção das mordomias e privilégios dos seus dirigentes. Queremos acabar com a corrupção a todos os níveis, combatendo o esbanjamento dos dinheiros públicos, o compadrio e o tráfico de influências. Queremos trazer os cidadãos sérios, honestos e trabalhadores para a actividade política. Queremos resgatar a democracia representativa das mãos daqueles que se comportam como donos dos votos e das consciências que trazem aos seus eleitores. Queremos afirmar o ADN como sendo a única alternativa capaz de pôr termo a este sistema político-partidário caduco, em que os mesmos dirigentes se eternizam no poder, apesar da sua incompetência e falta de honestidade. Dia 10 de Março, não te esqueças, o VOTO ÚTIL é no partido ADN - Alternativa Democrática Nacional! 
+
+
+## Medidas Adn Para Mudar Portugal 1. Criação Do Contrato Eleitoral
+
+Neste contrato o ADN estabelece um compromisso indissolúvel com os seus eleitores para a legislatura, não podendo os seus deputados eleitos trair a confiança de quem em Democracia Representativa tem a legitimidade de decidir, ou seja, os Eleitores, e em que as cláusulas pelas quais se rege estão previstas no final deste documento. Pugnamos para que este contrato eleitoral seja convertido em lei e que os partidos ou os deputados que não cumpram os seus compromissos eleitorais tenham canceladas todas as subvenções estatais e/ou sejam demitidos das suas funções. 
+
+## 2. Redução Global Dos Impostos
+
+Esta redução incide especificamente no IRS, IRC e Imposto sobre as Rendas, e a abolição do Imposto Municipal sobre as Transmissões Onerosas de bens imóveis (IMT) e da derrama estadual para as empresas. Esta solução passa por uma redução da despesa do Estado, nomeadamente com a extinção de Ministérios, Fundações e Empresas do Estado. É nosso objectivo fazer diminuir em média 25% a tributação de IRS e aumentar, no mínimo, em 2, o número de escalões. Também queremos reduzir 30% no valor mensal de IRS no 2.º filho e de 15% nos restantes filhos. 
+
+## 3. Licença De Maternidade
+
+Licença de maternidade de 18 meses para um progenitor e de 9 meses para o outro, segundo acordo entre ambos. É urgente dar condições aos portugueses para constituírem família em Portugal. 
+
+## 4. Acesso À Justiça
+
+O acesso à Justiça é um direito inaliável. Queremos rever o código de custas, para que ninguém fique privado de intentar uma acção judicial ou defender-se em Tribunal por falta de meios económicos, garantindo um verdadeiro apoio judiciário a quem o solicite. 
+
+## 5. Promover O Arrendamento Público
+
+Fazer cumprir o artigo 65.º da CRP, efectivando a construção de habitação económica e social, como forma legitima de regular o mercado de arrendamento, via concorrência.  Note-se que o ADN considera que num mercado livre o Estado, enquanto regulador, não pode participar em negócio, contudo, aqui trata-se de assegurar um direito básico, considerando-se que a intervenção do Estado no mercado de arrendamento por meios próprios não distorce, de forma perversa, a concorrência. 
+
+## 6. Oposição Ao "Tratado Pandémico"
+
+Iremos recusar aplicar o "Tratado Pandémico" sobre prevenção, preparação e respostas a pandemias adoptado no âmbito da Organização Mundial da Saúde (OMS) ou aos Regulamentos Sanitários da OMS que infrinjam os Direitos Fundamentais consagrados na CRP e que violam o Código Penal no que respeita ao Consentimento Informado. 
+
+## 7. Forças De Segurança
+
+Fusão/Unificação das Forças de Segurança da PSP e da GNR, dotando-as com todos os meios necessários para a prossecução dos seus fins. Criação de Mega-Esquadras para reduzir o número de elementos adstritos aos serviços administrativos e permitir aumentar o policiamento de proximidade nas ruas. Melhorar as condições salariais e de trabalho dos elementos das Forças de Segurança. 
+
+## 8. Avaliação Dos Juízes E Magistrados Do Mp
+
+Criação de mecanismo de avaliação eficaz, de todos os agentes de justiça (ex. um procurador do MP ou Juiz não pode ter na sua carreira um rol de casos ou recursos perdidos, que por vezes são o resultado de perseguição ideológica, política, sexista ou de outra ordem, sob o risco de entupir a Justiça com casos não caso ou falsas presunções).  
+
+## 9. Impedir Novas Inconstitucionalidades
+
+Negar a possibilidade de quaisquer alterações/revisões constitucionais que imponham o confinamento ou internamento de pessoa, por razões de saúde pública, sem uma decisão judicial prévia. 
+
+## 10. Incompatibilidades Dos Deputados
+
+Legislar sobre a incompatibilidade entre a função de deputado e a actividade de advogado e o exercício da arquitectura com funções nas Câmaras Municipais. Esta medida é um primeiro passo para dignificar a função de deputado e garantir uma efectiva concorrência leal entre os advogados e os arquitectos. 
+
+ 
+
+## 11. Justiça Para Quem Descontou
+
+Os valores mínimos de Pensão ou Reforma, para quem efectuou descontos para a Segurança Social e afins, não podem ser inferiores aos apoios estatais atribuídos a quem recebe o Rendimento Social de Inserção (RSI) ou similares atribuídos a cidadãos estrangeiros. 
+
+## 12. Dinheiro Físico
+
+Legislar no sentido de impedir qualquer proibição de pagamento em dinheiro-papel (notas e moedas), que actualmente já é feita por alguns comerciantes ou empresas, aplicando coimas desencorajadoras desta prática ilegal, pois é a única forma de inclusão financeira para todos aqueles que não utilizam ou não querem utilizar obrigatoriamente os serviços bancários e um garante da nossa liberdade. 
+
+## 13. Serviço Militar
+
+Reposição do cumprimento do Serviço Militar, que se vai designar SMO - Serviço Militar Opcional, passando a existir, em alternativa ao SMO, a opção pelo cumprimento de um Serviço Cívico, que se vai designar SCO - Serviço Cívico Opcional, como elemento de formação e de coesão social da nossa juventude. 
+
+## 14. Doutrinação Da Ideologia De Género
+
+Eliminação dos quaisquer apoios governamentais à promoção/doutrinação da "Ideologia de Género" ou a Associações/Entidades públicas ou privadas que promovam esta ideologia extremista. Nesse sentido, pugnamos pela proibição do leccionamento de conteúdos relacionados com a "Ideologia de Género" no ensino público, até ao 12.º ano. 
+
+ 
+
+## 15. Mudanças De Sexo Ou De Nome
+
+Revogar a Lei n.º 38/2018, de 07 de Agosto (Lei da Ideologia de Género), impedindo que menores de idade possam ser submetidos a bloqueadores da puberdade ou possam realizar cirurgias de mudança de sexo ou a mudança da menção do sexo no registo civil sem o consentimento parental. 
+
+## 16. Linguagem Neutra
+
+Somos contra o uso da chamada "linguagem neutra" no ensino público e em documentos oficiais do Estado. 
+
+## 17. "Lei Da Droga"
+
+Reverter a "Lei da Droga" que descriminalizou as drogas sintéticas e fez uma nova distinção entre tráfico e consumo, possibilitando que criminosos e traficantes, ao abrigo da lei 9/2023 de 3 de Março, possam adquirir grandes quantidades de droga, bastando alegar que se destina exclusivamente ao consumo próprio. 
+
+## 18. Combater A Imigração Ilegal
+
+A autorização de residência ou de permanência em território nacional só deve ser atribuída a quem tenha um Contrato de trabalho válido; habitação própria ou contrato de arrendamento inscrito nas finanças; faça prova de ter meios de subsistência enquanto permanecer em território nacional; tenha um Seguro de Saúde e um Seguro de responsabilidade civil, que cubra danos sobre a propriedade privada e/ou pública durante a sua permanência em território nacional. 
+
+ 
+
+## 19. Reverter A Lei Da Nacionalidade
+
+Reverter a actual lei da Nacionalidade e legislar no sentido de revogar a cidadania portuguesa  a estrangeiros que tenham cometido crimes graves em território nacional ou de forma reiterada e deportálos, sem  possibilidade de recurso. Recusar atribuir automaticamente a nacionalidade portuguesa a criança nascida em território nacional filha de ambos os pais estrangeiros. 
+
+ 
+
+## 20. Acesso Ao Sns A Estrangeiros
+
+Permitir apenas o acesso ao SNS a cidadãos estrangeiros desde que tenham contribuído para este sistema de saúde durante 6 meses ininterruptos ou 12 meses intercalados. 
+
+ 
+
+## 21. Migração E Asilo
+
+Somos contra o "Pacto sobre Migração e Asilo" aprovado a 20 de dezembro de 2023 pela União Europeia. 
+
+## 22. Interrupção Voluntária Da Gravidez (Ivg)
+
+As IVG que são realizadas sem ser por motivos clínicos ou de saúde, ou seja, que acontecem por mera opção da mulher grávida e não ao abrigo do previsto nas alíneas a) a d) do artigo 142.º do Código Penal, deixem de ser suportadas ou apoiadas financeiramente pelo SNS - Sistema Nacional de Saúde, bem como as cirurgias de mudança de sexo. 
+
+ 
+
+## 23. Eutanásia E Suícidio Medicamente Assistido
+
+Revogar a Lei 22/2023 de 25 de Maio, que regula as condições em que a morte medicamente assistida não é punível e altera o Código Penal, tendo em conta o estado em que se encontra o nosso SNS e que os cuidados paliativos continuam a estar inacessíveis à grande maioria dos doentes e famílias. 
+
+ 
+
+## 24. Transparência No Sns
+
+Garantir uma gestão efetiva e racional do SNS, baseada na transparência financeira, providenciando a faturação dos serviços prestados por acto e por utente, independente da entidade ou entidades pagadoras. 
+
+## 25. Adse
+
+Tornar a ADSE aberta a todos os cidadãos nacionais residentes que queiram aderir a este subsistema de saúde, mas pugnar a longo prazo, pela eliminação de todos os subsistemas.    
+
+## 26. Acordo Ortográfico
+
+Revogar o Acordo Ortográfico de 1990 e criar um Acordo Ortográfico que não permita ambiguidades, sem prejuízo da evolução da língua portuguesa.  
+ 
+
+## 27. Combate A Incêndios
+
+Assegurar adequados meios aéreos de combate a incêndios, nomeadamente helicópteros e aviões, criando condições que esta tarefa passe a ser desempenhada exclusivamente pela Força Aérea. 
+
+## 28. Defender A Segurança E A Qualidade Alimentar
+
+Legislar no sentido de proteger os consumidores que, sem se aperceberem dessa situação, adquirem produtos alimentares que contêm insectos, que estão a ser introduzidos na nossa alimentação como sendo uma suposta fonte alternativa de proteína. 
+
+ 
+
+## 29. Defesa Da Propriedade Privada
+
+Aumentar o número de casas de habitação no mercado imobiliário, eliminando a maioria dos impostos e taxas que incidem sobre bens privados, nomeadamente o IMT, o IMI e o imposto sobre as Mais-Valias. 
+
+## 30. Mercado Energértico
+
+Defender em todas as instâncias nacionais e europeias que a venda da energia, nomeadamente petróleo e gás natural, seja feita em mercado livre internacional, com possibilidade de recurso ao Euro, respeitando a Soberania de cada Pais. Esta solução visa valorizar a moeda europeia e, com isso, criar uma preciosa ajuda para travar a subida da inflação e a consequente necessidade do aumento das taxas de juro do BCE.  
+
+## 31. Frota Automóvel Do Estado
+
+Reduzir os gastos com a frota automóvel do Governo, reduzindo em 80% os cerca de 26 mil veículos que actualmente estão atribuídos à Administração directa, indirecta, gabinetes de Ministros do Governo e outros. 
+
+## 32. Factura Nos Serviços Públicos
+
+Discriminação dos custos feitos pelos Serviços Públicos no momento da emissão da fatura, a qual passa a ser obrigatória ser dada ao cidadão, nomeadamente na prestação de serviços na Saúde, Educação, Justiça, etc.  
+
+## 33. Tecto Máximo De Reforma
+
+Valor máximo de Reforma do Estado de 4 mil euros, criando simultaneamente um tecto máximo proporcional para o desconto realizado para a reforma durante a vida activa. 
+
+## 34. Apoios À Banca
+
+Fim dos apoios Estatais à Banca e inviabilizar através de legislação específica novos resgastes, tendo em consideração de que os portugueses ainda estão a pagar a factura  dos mais de 30 mil milhões de euros de apoios dados ao sector financeiro, que representam mais de 12% do Produto Interno Bruto 
+(PIB) e que foram  concedidos por vários governos do PS e do PSD durante os últimos 15 anos. 
+
+ 
+
+## 35. Banco De Portugal
+
+Obstar a que o Banco de Portugal retenha por mais de 3 anos informações sobre as dívidas de crédito dos portugueses, nomeadamente a situação de "dívida vencida" registada que, mesmo podendo ser fruto  
+de um erro e já depois de liquidada, continua  visível no arquivo de dados do Banco de Portugal por um período de 10 anos, impossibilitando o cidadão cumpridor a contrair novos créditos bancários. Legislar para que situações criminosas como as dos "Lesados do BES" não se repitam. 
+
+## 36. Subvenções Vitalícias
+
+Acabar com as subvenções vitalícias do Estado. 
+
+ 
+
+## 37. Interior Do País
+
+Desenvolvimento nas zonas do interior do país que têm sido votadas ao abandono, pugnando pela descentralização dos serviços do Estado e por incentivos que despoletem o desenvolvimento,  bem como, criar condições para que os profissionais de saúde permaneçam no SNS nas zonas do interior do país, ajudando a evitar a desertificação por motivos de falta de prestação de cuidados de saúde. 
+
+ 
+
+## 38. Fiscalização Dos Apoios Estatais A Pessoas Singulares
+
+Aumentar a fiscalização sobre quem usufruiu rendimento social de inserção (RSI),  fundo de desemprego e baixas médicas por doença, penalizando os infratores em caso de fraude (assistentes sociais, profissionais de saúde e alegados doentes). 
+
+ 
+
+## 39. Imi - Partidos Políticos
+
+Exigir provisoriamente o pagamento do IMI aos partidos políticos e Fundos Imobiliários. 
+
+ 
+
+## 40. Certificado Digital De Vacinação
+
+Eliminar o certificado digital de vacinação e recusar a obrigatoriedade de "vacinação da Covid-19". 
+
+ 
+
+## 41. Jornalismo Vs Política
+
+Impedir a passagem de profissionais no activo da área do jornalismo para assessorias políticas e viceversa, num tempo razoável, instituindo um «período de nojo» significativo entre a passagem de um cargo para o outro. 
+
+## 42. "Fraude Climática"
+
+Combater a "fraude climática" anti-científica, o que tem impacto na política energética. 
+
+ 
+
+## 43. Despesa Do Estado
+
+Reduzir ou, sempre que possível, eliminar as despesas do Estado com as IPSS, Associações, Fundações, Observatórios e ajudar diretamente o cidadão que necessita de algum apoio. 
+
+ 
+
+## 44. Recurso De Amparo
+
+Criação do recurso de amparo diretamente para o Tribunal Constitucional das decisões judiciais que ponham em causa direitos fundamentais dos cidadãos. 
+
+## 45. Tratados E Referendos
+
+Promover o referendo popular, ampliando e estendendo a figura do referendo vinculativo. 
+
+## 46. Antigos Combatentes
+
+Garantir apoios e justiça aos Antigos Combatentes pelos serviços prestados à nação, melhorando o "Estatuto do Antigo Combatente", equiparando-os aos militares na reserva para efeitos dos apoios e benefícios militares. 
+
+## A. Agricultura E Florestas 47. Reforçar A Dotação Do Programa De Desenvolvimento Rural (Pdr) Para Apoio Aos Jovens Agricultores. 48. Criar Uma Linha De Crédito Com Garantia Pública, Para Financiar, A Parte Não Subvencionada Do
+
+investimento a realizar no quadro dos projetos de primeira instalação dos Jovens Agricultores.  
+49. Criar um regime diferenciado de apoio a projetos de primeira instalação na agricultura de cidadãos acima 
+dos 45 anos que optem por residir de forma permanente nas zonas de muito baixa densidade. 
+50. A revisão da legislação de licenciamento de pequenas barragens e charcas de retenção de águas 
+superficiais no interior das explorações, com vista a reduzir a erosão, melhorar os recursos aquíferos e reduzir o recurso a águas subterrâneas.  
+51. Aumentar o Investimento Florestal Reprodutivo. 52. Aumentar a moldura penal para o crime de fogo posto. 
+53. Aumentar em 30% o número de guardas-florestais. 
+ 
+B. AMBIENTE 
+54. Impedir a privatização da Água. 55. Coimas mais elevadas para quem polui. 56. Combater a desertificação e a degradação dos solos. 57. Apoiar diferentes soluções de mobilidade. 58. Criar uma política de verdadeiro combate aos incêndios. 59. Impedir o assoreamento na barra dos portos, nomeadamente a chamada "restinga". 60. Revisão da política energética com anulação das taxas abusivas que distorcem o mercado e que têm por 
+base apenas opções ideológicas. 
+61. Reforçar os apoios às economias circulares. 
+ 
+C. APOIO AO EMPREGO 
+62. Apoio às empresas que se fixem em territórios com pouca densidade populacional. 63. Incentivos à contratação de jovens à procura do primeiro emprego ou de desempregados de longa 
+duração. 
+64. Garantir uma verdadeira protecção social aos trabalhadores independentes (recibos verdes e outros). 65. Protecção efectiva dos trabalhadores das empresas de trabalho temporário. 66. Dotar as Autoridades para as Condições do Trabalho do necessário para agir com celeridade contra os 
+abusos laborais. 
+67. Incentivo ao trabalho nas actividades do sector primário. 
+ 
+
+## D. Cultura 68. Planificar E Organizar De Forma Sustentada A Intensificação Das Artes E Dos Espetáculos, Tendo A
+
+preocupação de cobrir o território nacional, de acordo com as obrigações constitucionais. 
+69. Redução do IVA nos materiais artísticos, assim como os bilhetes de entrada em museus, exposições, 
+festivais, espetáculos e outros eventos culturais. 
+70. Ajudas ao funcionamento das escolas de música e de artes plásticas, conduzindo operações de parceria 
+com o ministério da educação nacional para promover a educação artística no meio escolar e universitário. 
+71. Defender o investimento na requalificação do património histórico nacional, em todos os domínios, 
+desde a reabilitação de centros históricos e monumentos até aos achados paleontológicos e arqueológicos, por forma a construir redes regionais de conhecimento e atração de interesse turístico interno e externo. 
+72. Garantir a proteção e divulgação de todas as expressões culturais, arquitetónicas, paisagísticas, artísticas, 
+etnográficas, gastronómicas, com o propósito de democratizar a Cultura em todo o território nacional; a criação de uma verdadeira política de museus e, no domínio das artes. 
+ 
+E. DEFESA NACIONAL 
+73. Reorganização das Forças Armadas atendendo ao tamanho do território e ao risco de guerra. 74. Melhoria das carreiras e vencimentos dos militares. 
+ 
+
+## F. **Descentralização Territorial E Poder Local** 75. Gradual Descentralização De Serviços Públicos Em Várias Áreas Da Administração Central, Regional E Local
+
+de modo a criar condições para a fixação das populações locais.  
+76. Medidas para diminuir as nefastas consequências para as populações da Região Autónoma dos Açores 
+decorrentes da situação de dupla insularidade em que se encontram a maioria das ilhas desse arquipélago. 
+77. Racionalização de serviços descentralizados, com tendencial uniformização das circunscrições regionais 
+dos vários ministérios.  
+78. Reorganização administrativa geral do território nacional, com vista à sua maior eficácia e ao 
+aprofundamento da democracia local. 
+
+## G. **Despesa Pública** 79. Abolição Das Portagens Nas Ex-Scut, Na Cril, Crel E Reduzir Os Valores Nas Pontes Que Ligam Lisboa
+
+à margem sul. 
+80. Renegociação da dívida pública portuguesa para que as gerações vindouras não paguem pelos erros dos 
+actuais políticos. 
+81. Renegociar e, sempre que possível, recusar manter em vigor os contratos ruinosos das PPP´s. 82. Eliminação das ajudas no apoio domiciliário aos Deputados com residência fora de Lisboa. Deverá ser 
+criada uma residência do Estado em Lisboa, para hospedar os deputados que residam a mais de 50 km da Assembleia da República. 
+
+## H. **Desporto** 83. Apoios Estatais Iguais Para Todos Os Desportistas De Competição Medalhados, Nomeadamente Para Os
+
+desportistas com deficiência. 
+84. Aumentar os apoios ao desporto para deficientes. 85. Aumentar os apoios aos desportistas e clubes amadores e aqueles que estão situados em localidades de 
+menor densidade populacional. 
+86. Promover o desporto de alta-competição nas escolas, dotando-as dos meios necessários para a 
+concretização desses objectivos. 
+87. Premiar as escolas que se destaquem na promoção do desporto. 
+ 
+
+## I. **Educação** 88. Melhorar As Infraestruturas Do Parque-Escolar Para Que Os Alunos Possam Ter As Condições Mínimas Para
+
+estar numa sala de aula e ter um bom aproveitamento. 
+89. Valorizar a carreira docente e promover uma maior autonomia das escolas, concedendo mais poderes e 
+protecção aos professores 
+90. Redução do número máximo de alunos por turma em todos os ciclos de ensino. 91. Recuperação integral do tempo de serviço congelado de forma imediata - 6 anos, 6 meses e 23 dias, 
+reconhecendo a importância dos professores na nossa sociedade, com a recuperação total do tempo de serviço congelado de forma imediata. 
+92. Contratos sem termo para todos os professores que lecionem durante 3 anos lectivos ininterruptos, 
+excepto se não aceitarem o local de trabalho (escola) previsto para o contrato sem termo. 
+93. Revisão do Decreto-Lei n.º 80-A/2023, de 6 de setembro e do Decreto-Lei n. º112/2023, de 29 de 
+novembro, que apenas servem para camuflar a falta gritante de docentes nas escolas e mesmo assim não resolve, pois, todos os anos continuam a existir muitos alunos sem aulas a algumas disciplinas. 
+94. Tornar crime-público as agressões, físicas ou verbais, e as ameaças a professores e funcionários 
+escolares. 
+95. Restruturar o Concurso Nacional de professores para que a colocação dos mesmos seja feita de forma 
+transparente e séria. 
+96. Elaboração de uma lista a nível nacional de reposição e graduação profissional de todos os docentes, de 
+acordo com o tempo de serviço prestado e as suas habilitações e qualificações profissionais. 
+97. Promover cursos técnico-profissionais de qualidade no ensino secundário. 98. Reduzir o número de escalões da carreira docente, eliminado as quotas, permitindo a progressão dos 
+professores com base num sistema de avaliação de desempenho, contínuo, reflexivo e transparente, e que valorize a sua participação, a prática do trabalho colaborativo, a actualização da sua formação académica e a adequação do currículo aos interesses e necessidades dos alunos 
+J. **EUROPA** 
+99. Promover a concertação de medidas a nível europeu para o combate ao desemprego. 
+100. Renegociação das dívidas dos Estados-membros. 101. Reformar a Europa tendo como sentido estratégico dessa mudança a dignidade das pessoas e o aumento 
+da transparência e democraticidade das instituições europeias. 
+102. Combate à corrupção e aos interesses supranacionais de elites eleitas e não eleitas. 103. O Presidente da Comissão Europeia e o presidente do BCE devem ser eleitos unicamente pelo 
+Parlamento Europeu, deixando o Conselho Europeu de ter o poder dos eleger ou nomear. 
+K. **FAMÍLIA** 
+104. Alargamento do tempo de licença da parentalidade. 105. Alargar os prazos de concessão e aumentar os montantes de subsídio e apoios para assistência a filho 
+com deficiência. 
+106. Subsídio parental inicial pago a 100%. 
+107. Promover medidas económicas e sociais para promover uma melhor conciliação entre a vida 
+pessoal, familiar e profissional, nomeadamente a garantia de part-time para que as mães possam ser 
+mães e manterem-se profissionalmente activas. 
+108. Reforma imediata da Lei da Adopção e do acolhimento familiar, de modo a permitir salvaguardar os 
+superiores interesses da criança. 
+L. **FISCALIDADE** 
+109. Eliminação gradual do IMT e imediata para imóveis até 250.000,00 € . 110. Rever os escalões do IRS, garantindo mais liquidez aos contribuintes. 
+111. Redução das taxas de IRS, em particular para as famílias numerosas, e da taxa do IRC, em particular 
+para reduzir o esforço fiscal das pequenas e microempresas. 
+112. Taxar o IVA a 6% para todos os bens essenciais e promover uma redução geral do IVA, para os 17% 
+máximo, de modo a combater a fuga e a evasão fiscal provocadas pela percentagem excessiva de imposto. Defendemos que a electricidade deve ser considerada bem essencial. 
+113. Alargar o âmbito de aplicação do Regime de Dedução por Lucros retidos e Reinvestidos. 114. Majorar incentivos fiscais e financeiros a investimentos nas regiões do interior. 115. Aumento das deduções das despesas com educação. 
+116. Promover a uniformização fiscal e do salário mínimo a nível europeu. 117. Valorizar a estabilidade fiscal. 
+ 
+
+## M. **Imigração, Emigração E Migração** 118. Promover O Reconhecimento De Qualificações Académicas Nos Países De Destino Da Emigração E Em
+
+Portugal. 
+119. Elaborar um plano de incentivos para os emigrantes que desejem retornar a Portugal. 120. Facilitar o reconhecimento de documentos nos países de destino e em Portugal. 121. Criar uma secção no Ministério dos Negócios Estrangeiros que terá a tutela dos nossos consulados. Os 
+consulados de Portugal não têm de ser dirigidos por diplomatas, mas sim por funcionários superiores do estado que conheçam bem os problemas dos nossos emigrantes e ajam sempre com elevado sentido de serviço às respetivas comunidades.  
+122. Penas de prisão efectiva para membros de redes ou que actuem individualmente e facilitem contratos 
+de trabalho ilegais. 
+123. Coimas no valor mínimo de 50 mil euros para as empresas e sócios que empreguem trabalhadores 
+ilegais. 
+124. Criar um grupo de estudo europeu, dotando-o com todos os meios necessários para apresentar factos e 
+dados científicos objectivos que permitam aos Estados-membros e à Comissão Europeia ter uma plataforma comum para gerir as migrações. 
+
+## N. **Inclusão / Integração** 125.  Lecionar A Disciplina "Língua Gestual Portuguesa" (Lgp) No Ensino Público E Privado. Esta É Uma
+
+comunidade que sofre as consequências de uma verdadeira exclusão social, mas que não são alvo de campanhas televisivas ou da criação de leis para obrigar ao ensino da LGP nas escolas, como tem sido feito com as aulas de Cidadania e Desenvolvimento e a "Ideologia de Género". 
+126. Garantir que a legislação de acessibilidades para a via pública, para os edifícios e estabelecimentos 
+que recebem público e edifícios habitacionais são cumpridos pelo Estado, por empresas e cidadãos, aplicando multas verdadeiramente dissuasoras e aplicando o resultado das mesmas na construção e manutenção dessas acessibilidades. 
+127. Apoiar condignamente todos aqueles que têm ou nasceram com incapacidades físicas ou mentais e os 
+seus cuidadores, ou outras situações similares que merecem mais apoios do Estado, criando uma rubrica especial no Orçamento Geral do Estado. 
+128. Isenção do Imposto Sobre Veículos (ISV), aumentando o benefício até ao valor de 35 mil euros. 129. Fazer cumprir as 133 medidas do Plano de Estratégia Nacional para a Inclusão de Pessoas com 
+Deficiência, o qual tem de ser revisto e melhorado. 
+
+## O. **Justiça** 130. O Crime De Violação Da Obrigação De Alimentos, Previsto No Artigo 250.º Do Código Penal, Deve Passar
+
+a ser considerado crime público. 
+131. Para combater o crime de Violência Doméstica defendemos a Criação de uma unidade de polícia 
+especial em cada distrito e uma bolsa de advogados oficiosos com especialização certificada pela Ordem dos Advogados neste tipo de crimes, para que o apoio imediato à vítima seja mais eficaz. Legislar para que as Câmaras Municipais tenham de garantir alojamento em unidade hoteleira à vítima e ao seu agregado familiar. O alojamento à vítima é garantido a partir do momento em que existe um auto da polícia a atestar que houve queixa de violência doméstica. Criar em cada município, casas de apoio, com segurança 24h/7 e possibilitar que a vítima efectue à Segurança Social um único pedido de advogado oficioso e que o mesmo seja automaticamente nomeado para todos os casos relacionados com o processo 
+de violência doméstica, nomeadamente de divórcio, de regulação do poder paternal ou outros. 
+132. Aumento para 40 anos da idade mínima para exercer a função de juiz. 133. Avaliação eficiente e responsabilização eficaz dos juízes, com reflexos, sobretudo, na sua progressão 
+na carreira. 
+134. Aumentar o pagamento feito aos defensores oficiosos, cujas tabelas de honorários não são revistas 
+desde 2004. 
+135. Dotar os tribunais administrativos, onde os particulares litigam contra o Estado, de reais recursos, quer 
+humanos quer técnicos, com o objectivo de reduzir as pendências nestes tribunais, para um máximo de 2 anos, até à prolação da sentença final. 
+136. Agilizar a acção executiva e dotar a acção declarativa na cobrança de créditos comerciais e não só, de 
+meios processuais muito mais céleres terminando-se com muitos expedientes dilatórios e processuais, que atrasem ou impeçam a prolação da sentença, até o máximo de 1 ano após a interposição da acção em tribunal. 
+137. O Tribunal Constitucional deverá passar a ser uma secção do STJ, havendo a possibilidade de os 
+partidos políticos, com e sem assento parlamentar, nomearem, por maioria simples, 6 Juízes para o Tribunal Constitucional. 
+138. Designação dos Juízes do Tribunal Constitucional e do Procurador-Geral da República através de 
+eleição entre os seus pares. 
+ 
+
+## P. **Juventude**
+
+139. Reintroduzir o crédito bonificado jovem, permitindo a compra de casa com recurso a crédito, com 
+condições especiais e com bonificações pagas pelo Estado. 
+140. Isenção imediata do IMT e Imposto Selo na compra da primeira casa. 141. Construção de residências para os estudantes universitários, bolseiros e não bolseiros, que consigam 
+colmatar as reais necessidades da comunidade estudantil, ficando a atribuição do quarto condicionada ao aproveitamento escolar. 
+
+## Q. **Saúde**
+
+142. Reprogramar o actual sistema das Juntas Médicas de avaliação de Incapacidade. 143. Alterar o modelo de contratualização dos profissionais de saúde, com base na produtividade e ser 
+mais flexível, tendo como objectivo principal pagar salários competitivos com os do Privado, combater o abandono de médicos e enfermeiros do SNS e acabar com as listas de espera. 
+144. Obrigação de, no mínimo, um enfermeiro por cada Lar de Idosos. 
+
+## R. **Segurança E Protecção Civil**
+
+145. Aumentar substancialmente os salários indignos dos elementos das forças de segurança. 146. Devolução do pagamento dos suplementos de patrulha e de turno durante o período de férias.  
+147. Possibilidade de concorrer à posição de agente principal ao final de cinco anos e passagem 
+automática, no máximo, ao final de oito anos de desempenho das funções de agente. 
+148. Aplicação da lei da saúde e fiscalização da segurança no trabalho aos elementos das forças de 
+Segurança. 
+149. Garantir que o fardamento das forças de segurança é efectivamente custeado pelo Estado e não pelos 
+seus profissionais. 
+
+## S. **Segurança Social**
+
+150. Aumento das pensões mínimas, sociais e rurais, bem como da bonificação do abono de família e 
+dos escalões do abono de família. 
+151. Aumentar o tempo de licença de parentalidade, contribuindo para um melhor acompanhamento da 
+criança nos primeiros 18 meses de vida, permitindo também às empresas optimizar coordenação e rentabilização da contratação de trabalhadores substitutos.  
+152. Efectivo apoio à procura de novo emprego para os desempregados. 153. Dotar a rede de apoios sociais (RSI, CSI, abono de família, apoio a deficientes, acção social 
+escolar) com todos os meios necessários para responder às necessidades da população e à sua fiscalização e acompanhamento social, a fim de também eliminar abusos. 
+154. Indexação da reforma mínima nacional ao salário mínimo. 
+ 
+
+## T. **Transportes**
+
+155. Alargamento da oferta do serviço público de transportes, com inclusão de pequenas e médias 
+empresas. 
+156. Melhorar a coordenação dos horários dos diversos transportes públicos, visando as reais necessidades 
+das populações. 
+157. Regulação eficaz dos preços dos combustíveis. 
+158. Rever os contratos de PPP´s e eliminar as portagens das SCUTs e das entradas nos centros urbanos 
+(CREL e CRIL). 
+159. Recuperação da infraestrutura ferroviária e fluvial. 160. Promover a fiscalização da qualidade dos transportes públicos, obrigatoriedade de padrões mínimos 
+de qualidade. 
+ 
+
+## U. **Regiões Autónomas**
+
+161. Aumentar e melhorar os apoios à mobilidade regional nos transportes aéreos. 162. Maiores apoios às Universidades das Regiões Autónomas. 163. Melhoramento do regime fiscal mais favorável para empresas que criem postos de trabalho efectivos, 
+paguem impostos e criem riqueza nas Regiões Autónomas. 
+164. Garantir maior autonomia legislativa e orçamental às Regiões Autónomas da Madeira e dos Açores. 
+ 
+
+## V. **Sector Das Pescas**
+
+165. Garantir a sustentabilidade do ecossistema marinho e dos seus recursos haliêuticos com e não contra 
+os pescadores, cujos empregos no sector são a garantia da contenção das importações e da extensão de boas práticas de pesca. 
+166. Maior investimento de meios para a investigação marinha. 167. Acabar com a legislação feita à revelia dos pescadores e melhorar a gestão das pescas da União 
+Europeia. 
+168. Integrar a política comum de pescas na política marítima. 169. Proteger as micro, pequenas e médias empresas que têm vindo a ser condicionadas no apoio 
+financeiro público. 
+170. O apoio financeiro público ao sector das pescas deve ter carácter permanente, na linha do que se 
+passa com a Agricultura. 
+171. A gestão das pescas e respectivas quotas tem de ser da respectiva responsabilidade do Estado 
+português. 
+ 
+
+## 
+
+ 
+
+## 
+
+ 
+
+## Contrato Eleitoral
+
+A proposta do ADN visa estabelecer um contrato indissolúvel com os seus eleitores para a legislatura, não podendo os seus deputados eleitos trair a confiança de quem em Democracia Representativa tem a legitimidade de decidir, ou seja, os Eleitores, pugnado para que a nossa proposta se converta em lei. O ADN estará na primeira linha contra a censura que impera em Portugal, devido ao controle político dos meios de comunicação social. 
+
+A -  DEMOCRACIA REPRESENTATIVA REFERENDÁRIA CONSULTIVA: 
+a.1) O ADN na Assembleia da República (AR) e no Governo, promoverá a mobilização de meios tecnológicos modernos para constante auscultação do povo português, através de um sistema de referendo, sobre os assuntos chave da política Nacional e compromissos internacionais. 
+
+a.2) Os referendos não poderão incidir sobre aspetos estruturantes da CRP, nomeadamente: a Dignidade Humana (Artigo 1º); o direito à integridade genética (Artigo 26º nº3); e Direitos e Liberdades básicos (Artigo 27º). Este projeto será erigido sob a bandeira: dar voz ao Povo! 
+
+a.3) O resultado dos referendos será, inicialmente, apenas consultivo, contudo as decisões divergentes do Governo terão de ser, obrigatoriamente, explicadas ao Povo, no prazo máximo de 30 dias após a tomada de decisão por parte do executivo ou da AR, para que não continuem a ser tomadas em segredo contra os interesses da população. 
+
+B - DEFESA DA CONSTITUIÇÃO E SUA MELHORIA: 
+b.1) O ADN lutará pela revisão do preambulo da CRP, que considera anti-democrático: o caminho para o socialismo ou outros regimes políticos legítimos, será decido em cada ato eleitoral pelo Povo, não por aqueles que se auto designam como os representantes do Povo. 
+
+b.2) Qualquer revisão constitucional não poderá ultrapassar os limites materiais impostos na mesma, incluindo os Artigos referidos supra em a.2). 
+
+C - REFORMA DA JUSTIÇA: 
+c.1) Restauração da separação de poderes, com redução ou eliminação da possibilidade de nomeação direta ou de interferência política na composição dos órgãos de magistratura ou judiciais. 
+
+c.2) Dotar o Ministério Público de meios próprios para fazer investigação, sem ter de depender do Ministério da Administração Interna. 
+
+c.3) A função de Deputado na Assembleia da República será incompatível com exercer a profissão de Advogado. 
+
+c.4) Reduzir as custas judiciais, para valores razoáveis, idênticos aos praticados noutros países europeus. c.5) Remunerar com dignidade os Advogados Oficiosos, aqueles que vão defender os mais desfavorecidos do Povo. D - CHOQUE FISCAL: 
+d.1) IVA de 6% sobre os alimentos essenciais. 
+
+d.2) IVA geral, objectivo, de, no máximo, 17%. 
+
+d.3) Diminuir em média 25% o valor pago de IRS e aumentar o número de escalões em mais um. 
+
+d.4) Proteção à Família: redução de 25% do IRS no 2.º filho e 10% por cada filho em número superior. d.5) Reduzir o IRC em 10%. d.6) Eliminar o IUC e outros impostos abusivos. 
+
+ 
+E - HABITAÇÃO: 
+e.1)  Rever o programa de Habitação Social, dando prioridade aos cidadãos portugueses de pleno direito. e.2) Permitir dedução em sede de IRS dos impostos pagos para compra de 1ª habitação, para quem não tenha mais património imobiliário. 
+
+e.3) Incentivar programas de habitação social, nomeadamente promovendo quotas sociais nos projetos imobiliários privados de maior dimensão. 
+
+F - SAÚDE: 
+f.1) Tornar o SNS em Universal, acabando, a longo prazo, com todos os subsistemas. 
+
+f.2) Exigir faturação por acto ou serviço, com emissão de factura, obrigando ao início de uma verdadeira gestão dos serviços de saúde. 
+
+f.3) Comparticipação da factura de 50% a 100% (somente em casos específicos) dependendo do custo total do serviço e cruzamento com os dados fiscais. 
+
+f.4) Alteração do modelo de contratualização, com a maior parte dos salários dependentes da produção por acto, com excepção da cirurgia invasiva (motivos éticos). 
+
+f.5) Promover a internalização dos serviços, com monitorização apertada da contratualização externa. 
+
+ 
+G - EDUCAÇÃO: 
+g.1) Exigir uma educação factual, não ideológica e contra a ciência, excluindo ideologias dos programas 
+(como as ideologias de "género" e "climáticas antropogénicas"). 
+
+g.2) Respeitar a Responsabilidade Parental. g.3) Alterar o modelo de contratualização dos Professores, privilegiando os serviços efetivamente prestados, como horas lecionadas e trabalhos produzidos, a fim de valorizar a massa salarial total. 
+
+g.4) Apoiar modelos de seleção baseados no mérito dos alunos, única forma eficaz de promover a mobilidade social, muito reduzida em Portugal, com efeitos na melhoria de competitividade do Pais no futuro. 
+
+H - POLÍTICA INTERNACIONAL: 
+h.1) Lutar pela Soberania Nacional nos contratos de compra de energia, petróleo, gás ou outros, exclusivamente nas moedas dos países produtor-consumidor, recusando a ingerência de terceiros. 
+
+h.2) Recusar Tratados ou Regulamentos Sanitários que coloquem em causa os direitos consagrados na CRP e o inalienável direito ao Consentimento Informado. 
+
+h.3) Defender uma Europa forte, unida, autónoma, livre da pressão das grandes corporações financeiras e entidades supranacionais não eleitas, criando, se necessário, uma nova EU. 
+
+h.4) Reduzir o poder da Comissão, transferindo as decisões maiores para o Parlamento Europeu. 
+
+ 
+
+## Pela Restauração
+
+DA DEMOCRACIA  
+E DO ESTADO DE 
+DIREITO  
+EM PORTUGAL 
+LEGISLATIVAS 2024 
+ 
+VOTA ADN 

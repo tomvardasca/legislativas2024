@@ -1,21 +1,20 @@
 import { UseChatHelpers } from 'ai/react'
 
 import { Button } from '@/components/ui/button'
-import { ExternalLink } from '@/components/external-link'
 import { IconArrowRight } from '@/components/ui/icons'
 
 const exampleMessages = [
   {
-    heading: 'Explain technical concepts',
-    message: `What is a "serverless function"?`
+    heading: 'Qual a proposta do partido X para a educação?',
+    message: `Qual a proposta do partido X para a educação? \n`
   },
   {
-    heading: 'Summarize an article',
-    message: 'Summarize the following article for a 2nd grader: \n'
+    heading: 'O que o partido Y propõe para a saúde?',
+    message: 'O que o partido Y propõe para a saúde? \n'
   },
   {
-    heading: 'Draft an email',
-    message: `Draft an email to my boss about the following: \n`
+    heading: 'Quais são as principais propostas dos partidos para a economia?',
+    message: `Quais são as principais propostas dos partidos para a economia? \n`
   }
 ]
 
@@ -24,18 +23,13 @@ export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
     <div className="mx-auto max-w-2xl px-4">
       <div className="rounded-lg border bg-background p-8">
         <h1 className="mb-2 text-lg font-semibold">
-          Welcome to Next.js AI Chatbot!
+          Bem-vindo ao Assistente para programas eleitorais dos partidos
         </h1>
         <p className="mb-2 leading-normal text-muted-foreground">
-          This is an open source AI chatbot app template built with{' '}
-          <ExternalLink href="https://nextjs.org">Next.js</ExternalLink> and{' '}
-          <ExternalLink href="https://vercel.com/storage/kv">
-            Vercel KV
-          </ExternalLink>
-          .
+          Este assistente foi especialmente preparado para fornecer informações sobre os programas eleitorais dos partidos para as eleições legislativas de 2024 em Portugal. Foi treinado para incluir detalhes dos programas eleitorais dos partidos. Com uma abordagem neutra e baseada em fatos, o assistente visa ajudar os eleitores a fazer escolhas informadas, sem emitir opiniões políticas ou especulações.
         </p>
         <p className="leading-normal text-muted-foreground">
-          You can start a conversation here or try the following examples:
+          Pode tentar um dos seguintes exemplos:
         </p>
         <div className="mt-4 flex flex-col items-start space-y-2">
           {exampleMessages.map((message, index) => (

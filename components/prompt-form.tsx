@@ -46,7 +46,7 @@ export function PromptForm({
       ref={formRef}
     >
       <div className="relative flex flex-col w-full px-8 overflow-hidden max-h-60 grow bg-background sm:rounded-md sm:border sm:px-12">
-        <Tooltip>
+        {/* <Tooltip>
           <TooltipTrigger asChild>
             <button
               onClick={e => {
@@ -64,7 +64,7 @@ export function PromptForm({
             </button>
           </TooltipTrigger>
           <TooltipContent>New Chat</TooltipContent>
-        </Tooltip>
+        </Tooltip> */}
         <Textarea
           ref={inputRef}
           tabIndex={0}
@@ -72,7 +72,7 @@ export function PromptForm({
           rows={1}
           value={input}
           onChange={e => setInput(e.target.value)}
-          placeholder="Send a message."
+          placeholder="Faz uma pergunta sobre o programa eleitoral de um partido."
           spellCheck={false}
           className="min-h-[60px] w-full resize-none bg-transparent px-4 py-[1.3rem] focus-within:outline-none sm:text-sm"
         />
@@ -85,10 +85,10 @@ export function PromptForm({
                 disabled={isLoading || input === ''}
               >
                 <IconArrowElbow />
-                <span className="sr-only">Send message</span>
+                <span className="sr-only">Enviar mensagem</span>
               </Button>
             </TooltipTrigger>
-            <TooltipContent>Send message</TooltipContent>
+            <TooltipContent>Enviar mensagem</TooltipContent>
           </Tooltip>
         </div>
       </div>

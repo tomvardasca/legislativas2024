@@ -11,10 +11,9 @@ import { Header } from '@/components/header'
 export const metadata = {
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
   title: {
-    default: 'Next.js AI Chatbot',
-    template: `%s - Next.js AI Chatbot`
+    default: 'Eleições legislativas 2024 - Programas Eleitorais - AI Chatbot',
   },
-  description: 'An AI-powered chatbot template built with Next.js and Vercel.',
+  description: 'Assistente para programas eleitorais dos partidos para as Eleições legislativas 2024.',
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon-16x16.png',

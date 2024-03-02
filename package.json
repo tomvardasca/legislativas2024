@@ -9,7 +9,8 @@
     "preview": "next build && next start",
     "type-check": "tsc --noEmit",
     "format:write": "prettier --write \"{app,lib,components}/**/*.{ts,tsx,mdx}\" --cache",
-    "format:check": "prettier --check \"{app,lib,components}**/*.{ts,tsx,mdx}\" --cache"
+    "format:check": "prettier --check \"{app,lib,components}**/*.{ts,tsx,mdx}\" --cache",
+    "generate": "tsx -r dotenv/config app/api/chat/generate.ts"
   },
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.0.5",
@@ -30,6 +31,7 @@
     "focus-trap-react": "^10.2.3",
     "framer-motion": "^10.18.0",
     "geist": "^1.2.1",
+    "llamaindex": "^0.1.16",
     "nanoid": "^5.0.4",
     "next": "14.1.0",
     "next-auth": "5.0.0-beta.4",
@@ -53,6 +55,7 @@
     "@types/react-syntax-highlighter": "^15.5.11",
     "@typescript-eslint/parser": "^6.19.0",
     "autoprefixer": "^10.4.17",
+    "dotenv": "^16.4.5",
     "eslint": "^8.56.0",
     "eslint-config-next": "14.1.0",
     "eslint-config-prettier": "^9.1.0",
@@ -62,6 +65,7 @@
     "tailwind-merge": "^2.2.0",
     "tailwindcss": "^3.4.1",
     "tailwindcss-animate": "^1.0.7",
+    "tsx": "^4.7.1",
     "typescript": "^5.3.3"
   },
   "packageManager": "pnpm@8.6.3"
