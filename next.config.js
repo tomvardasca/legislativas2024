@@ -4,6 +4,9 @@ module.exports = {
     serverComponentsExternalPackages: ['llamaindex'],
     // this includes files from the monorepo base two directories up
     outputFileTracingRoot: path.join(__dirname, 'cache/'),
+    outputFileTracingIncludes: {
+      '/api/chat': ['./cache/**/*'],
+    },
   },
   images: {
     remotePatterns: [
