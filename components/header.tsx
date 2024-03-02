@@ -1,7 +1,7 @@
 import * as React from 'react'
 import Image from 'next/image'
 import Logo from './logo.png'
-
+import { ThemeToggle } from '@/components/theme-toggle'
 
 export function Header() {
   return (
@@ -10,6 +10,7 @@ export function Header() {
       <Image src={Logo} alt='Logo' width={50} height={50} className='mx-5'/>
           Eleições legislativas 2024 - Programas Eleitorais
       </div>
+      <ThemeToggle />
     </header>
   )
 }
