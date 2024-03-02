@@ -7,6 +7,7 @@ import { cn } from '@/lib/utils'
 import { TailwindIndicator } from '@/components/tailwind-indicator'
 import { Providers } from '@/components/providers'
 import { Header } from '@/components/header'
+import Script from 'next/script'
 
 export const metadata = {
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
@@ -35,6 +36,10 @@ interface RootLayoutProps {
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9962628206658964"
+          crossOrigin="anonymous" strategy="lazyOnload"></Script>
+      </head>
       <body
         className={cn(
           'font-sans antialiased',
@@ -42,7 +47,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
           GeistMono.variable
         )}
       >
-        <Analytics/>
+        <Analytics />
         <Toaster />
         <Providers
           attribute="class"
