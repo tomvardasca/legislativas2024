@@ -34,6 +34,7 @@ import {
 import { Response } from 'llamaindex';
 import { createChatEngine } from './utils';
 import { nanoid } from '@/lib/utils';
+import { NextResponse } from 'next/server';
 
 type ParserOptions = {
   image_url?: string;
@@ -162,9 +163,9 @@ export async function POST(req: Request) {
   );
 
   if(!success || !successSession) {
-    return new Response('Demasiadas perguntas! Tenta novamente mais tarde.', {
+    return new NextResponse('Demasiadas perguntas! Tenta novamente mais tarde.', {
           status: 429
-        } as any) as any;
+        });
   }
 
   const json = await req.json()
