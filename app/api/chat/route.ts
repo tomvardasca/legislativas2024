@@ -7,7 +7,7 @@ export const maxDuration = 120;
 const ratelimit = new Ratelimit({
   redis: kv,
   // 5 requests from the same IP in 10 seconds
-  limiter: Ratelimit.slidingWindow(5, '4 h'),
+  limiter: Ratelimit.slidingWindow(15, '4 h'),
 });
 
 const ratelimitSession = new Ratelimit({
@@ -25,13 +25,8 @@ import {
   type AIStreamCallbacksAndOptions,
 } from 'ai';
 import {
-  MessageContent,
   OpenAI,
-  OpenAIAgent,
-  QueryEngineTool,
-  SimpleDirectoryReader,
   TextQaPrompt,
-  VectorStoreIndex,
 } from "llamaindex";
 import { Response } from 'llamaindex';
 import { createChatEngine } from './utils';
