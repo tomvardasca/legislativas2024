@@ -1,5 +1,19 @@
 import { kv } from '@vercel/kv'
-import { OpenAIStream, StreamingTextResponse } from 'ai'
+import { Ratelimit } from '@upstash/ratelimit';
+import { cookies } from 'next/headers'
+
+const ratelimit = new Ratelimit({
+  redis: kv,
+  // 5 requests from the same IP in 10 seconds
+  limiter: Ratelimit.slidingWindow(5, '4 h'),
+});
+
+const ratelimitSession = new Ratelimit({
+  redis: kv,
+  // 5 requests from the same IP in 10 seconds
+  limiter: Ratelimit.slidingWindow(5, '4 h'),
+});
+import { StreamingTextResponse } from 'ai'
 import {
   JSONValue,
   createCallbacksTransformer,
@@ -19,6 +33,7 @@ import {
 } from "llamaindex";
 import { Response } from 'llamaindex';
 import { createChatEngine } from './utils';
+import { nanoid } from '@/lib/utils';
 
 type ParserOptions = {
   image_url?: string;
@@ -83,25 +98,6 @@ export const dynamic = 'force-dynamic';
 
 export const runtime = 'nodejs'
 
-const convertMessageContent = (
-  textMessage: string,
-  imageUrl: string | undefined
-): MessageContent => {
-  if (!imageUrl) return textMessage;
-  return [
-    {
-      type: 'text',
-      text: textMessage,
-    },
-    {
-      type: 'image_url',
-      image_url: {
-        url: imageUrl,
-      },
-    },
-  ];
-};
-
 // Define a custom prompt
 const newTextQaPrompt = (history: any[]): TextQaPrompt => ({ context, query }) => {
   return `Please ALWAYS repondes in portuguese from Portugal. Como assistente, o meu objetivo é ajudar a esclarecer dúvidas sobre os programas eleitorais dos partidos políticos para as eleições legislativas de 2024 em Portugal. 
@@ -152,7 +148,27 @@ const newTextQaPrompt = (history: any[]): TextQaPrompt => ({ context, query }) =
 };
 
 export async function POST(req: Request) {
+  const ip = (req.headers.get('x-forwarded-for') ?? '127.0.0.1').split(',')[0]
+  const { success } = await ratelimit.limit(
+    ip
+  );
+
+  const sessionId = cookies().get("as")?.value ?? nanoid();
+  if(!cookies().get("as")) {
+    cookies().set("as", sessionId, { maxAge: 31536000});
+  }
+  const { success: successSession } = await ratelimitSession.limit(
+    sessionId
+  );
+
+  if(!success || !successSession) {
+    return new Response('Demasiadas perguntas! Tenta novamente mais tarde.', {
+          status: 429
+        });
+  }
+
   const json = await req.json()
+  
   const { messages, previewToken } = json
   // const userId = (await auth())?.user.id
 
