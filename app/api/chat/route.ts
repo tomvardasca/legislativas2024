@@ -128,7 +128,7 @@ const newTextQaPrompt = (history: any[]): TextQaPrompt => ({ context, query }) =
   . NÃO TENTAREI inventar uma resposta.
   Quando perguntado sobre os programa eleitoral dos partidos PCTP/MRPP, JPP, A21, NC, e PTP, informarei que ainda não publicaram o seu programa eleitoral para as eleições legislativas de 2024.
   Se a pergunta não está relacionada com o contexto, responde afávelmente que apenas podes responder sobre o contexto que foste treinado.
-  As respostas serão SEMPRE em português de Portugal.
+  Responde SEMPRE em português de Portugal.
 
   A informação de context está em baixo:
   ---------------------
@@ -140,8 +140,8 @@ const newTextQaPrompt = (history: any[]): TextQaPrompt => ({ context, query }) =
   ${history.map(h => h.content).join("\n")}
   ---------------------
   
-  A respostas será SEMPRE em português de Portugal.
   Questão: ${query}
+  Responde SEMPRE em português de Portugal.
   Resposta em markdown:`;
 };
 
@@ -182,7 +182,6 @@ export async function POST(req: Request) {
     model: 'gpt-3.5-turbo-16k',
     apiKey: process.env.OPENAI_API_KEY,
     temperature: 0.3,
-
   });
 
 
