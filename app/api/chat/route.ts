@@ -28,17 +28,16 @@ import {
   OpenAI,
   TextQaPrompt,
 } from "llamaindex";
-import { Response } from 'llamaindex';
+import { Response as LlamaIndexResponse } from 'llamaindex';
 import { createChatEngine } from './utils';
 import { nanoid } from '@/lib/utils';
-import { NextResponse } from 'next/server';
 
 type ParserOptions = {
   image_url?: string;
 };
 
 function createParser(
-  res: AsyncIterable<Response>,
+  res: AsyncIterable<LlamaIndexResponse>,
   data: experimental_StreamData,
   opts?: ParserOptions
 ) {
@@ -77,7 +76,7 @@ function createParser(
 }
 
 function LlamaIndexStream(
-  res: AsyncIterable<Response>,
+  res: AsyncIterable<LlamaIndexResponse>,
   opts?: {
     callbacks?: AIStreamCallbacksAndOptions;
     parserOptions?: ParserOptions;
@@ -160,7 +159,7 @@ export async function POST(req: Request) {
   );
 
   if(!success || !successSession) {
-    return new NextResponse('Demasiadas perguntas! Tenta novamente mais tarde.', {
+    return new Response('Demasiadas perguntas! Tenta novamente mais tarde.', {
           status: 429
         });
   }
