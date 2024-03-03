@@ -140,8 +140,7 @@ const newTextQaPrompt = (history: any[]): TextQaPrompt => ({ context, query }) =
   ---------------------
   
   Questão: ${query}
-  Responde SEMPRE em português de Portugal.
-  Resposta em markdown:`;
+  Resposta SEMPRE em português de Portugal e em markdown:`;
 };
 
 export async function POST(req: Request) {
@@ -180,7 +179,7 @@ export async function POST(req: Request) {
   const llm = new OpenAI({
     model: 'gpt-3.5-turbo-16k',
     apiKey: process.env.OPENAI_API_KEY,
-    temperature: 0.3,
+    temperature: 0.1,
   });
 
 
@@ -196,7 +195,7 @@ export async function POST(req: Request) {
 
 
   const response = await chatEngine.query({
-    query: userMessage.content + `\n Responde SEMPRE em português de Portugal.`,
+    query: userMessage.content + `\n Responde SEMPRE em português de Portugal\n`,
     stream: true,
   });
 
