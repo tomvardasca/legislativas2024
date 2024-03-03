@@ -36,7 +36,6 @@ async function generateDatasource(serviceContext: ServiceContext) {
         ).length;
         console.log({ numberOfDocs, storageContext });
     });
-    console.log(`Storage context successfully generated in ${ms / 1000}s.`);
 }
 
 (async () => {

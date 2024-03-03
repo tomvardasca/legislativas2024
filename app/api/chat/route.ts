@@ -197,7 +197,7 @@ export async function POST(req: Request) {
 
 
   const response = await chatEngine.query({
-    query: userMessage.content,
+    query: userMessage.content + `\n Responde SEMPRE em português de Portugal.`,
     stream: true,
   });
 

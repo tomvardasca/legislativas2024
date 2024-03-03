@@ -35,7 +35,6 @@ async function getDataSource(llm: LLM) {
             `StorageContext is empty - call 'npm run generate' to generate the storage first`
         );
     }
-    console.log({ numberOfDocs, storageContext });
     return await VectorStoreIndex.init({
         storageContext,
         serviceContext,
