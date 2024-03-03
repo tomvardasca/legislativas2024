@@ -159,7 +159,7 @@ export async function POST(req: Request) {
   );
 
   if(!success || !successSession) {
-    return new Response('Demasiadas perguntas! Tenta novamente mais tarde.', {
+    return new Response('Demasiadas perguntas! Tente novamente mais tarde.', {
           status: 429
         });
   }
