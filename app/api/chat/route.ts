@@ -160,19 +160,12 @@ export async function POST(req: Request) {
   if(!success || !successSession) {
     return new Response('Demasiadas perguntas! Tente novamente mais tarde.', {
           status: 429
-        });
+    });
   }
 
   const json = await req.json()
   
-  const { messages, previewToken } = json
-  // const userId = (await auth())?.user.id
-
-  // if (!userId) {
-  //   return new Response('Unauthorized', {
-  //     status: 401
-  //   })
-  // }
+  const { messages } = json
 
   const userMessage = messages.pop();
 
@@ -184,16 +177,6 @@ export async function POST(req: Request) {
 
 
   const chatEngine = await createChatEngine(llm, newTextQaPrompt(messages));
-
-  // Calling LlamaIndex's ChatEngine to get a streamed response
-  // const response = await chatEngine.chat({
-  //   message: userMessage.content,
-  //   chatHistory: messages,
-  //   stream: true,
-  // });
-
-
-
   const response = await chatEngine.query({
     query: userMessage.content + `\n Responde SEMPRE em português de Portugal\n`,
     stream: true,
@@ -205,46 +188,4 @@ export async function POST(req: Request) {
 
   // Return a StreamingTextResponse, which can be consumed by the Vercel/AI client
   return new StreamingTextResponse(stream, {}, streamData);
-
-
-  // if (previewToken) {
-  //   openai.apiKey = previewToken
-  // }
-
-  // const res = await openai.chat.completions.create({
-  //   model: 'gpt-3.5-turbo',
-  //   messages,
-  //   temperature: 0.7,
-  //   stream: true
-  // })
-
-  // const stream = OpenAIStream(res, {
-  //   async onCompletion(completion) {
-  //     const title = json.messages[0].content.substring(0, 100)
-  //     const id = json.id ?? nanoid()
-  //     const createdAt = Date.now()
-  //     const path = `/chat/${id}`
-  //     const payload = {
-  //       id,
-  //       title,
-  //     //  userId,
-  //       createdAt,
-  //       path,
-  //       messages: [
-  //         ...messages,
-  //         {
-  //           content: completion,
-  //           role: 'assistant'
-  //         }
-  //       ]
-  //     }
-  //     // await kv.hmset(`chat:${id}`, payload)
-  //     // await kv.zadd(`user:chat:${userId}`, {
-  //     //   score: createdAt,
-  //     //   member: `chat:${id}`
-  //     // })
-  //   }
-  // })
-
-  // return new StreamingTextResponse(stream)
 }

@@ -53,9 +53,4 @@ export async function createChatEngine(llm: LLM, qaPrompt: TextQaPrompt) {
     });
 
     return index.asQueryEngine({ retriever, responseSynthesizer });
-    // return new ContextChatEngine({
-    //     chatModel: llm,
-    //     retriever,
-    //     contextSystemPrompt: () => "",
-    // });
 }

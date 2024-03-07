@@ -10,7 +10,7 @@
     "type-check": "tsc --noEmit",
     "format:write": "prettier --write \"{app,lib,components}/**/*.{ts,tsx,mdx}\" --cache",
     "format:check": "prettier --check \"{app,lib,components}**/*.{ts,tsx,mdx}\" --cache",
-    "generate": "tsx -r dotenv/config app/api/chat/generate.ts"
+    "generate": "tsx -r dotenv/config generate.ts"
   },
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.0.5",
