@@ -7,6 +7,7 @@ import {
 } from '@/components/ui/dialog'
 import { type DialogProps } from '@radix-ui/react-dialog'
 import Link from 'next/link';
+import { IconGitHub } from './ui/icons';
 
 export function AboutDialog(props: DialogProps) {
   return (<Dialog {...props}>
@@ -24,7 +25,9 @@ export function AboutDialog(props: DialogProps) {
       <div className="p-4 space-y-1 text-sm rounded-md">
         Desenvolvide com Next.js, OpenAI e LlamaIndex.ts.
       </div>
-      <Link href="/privacidade" onClick={()=> props?.onOpenChange?.(false)}>Política de Privacidade</Link>
+      <a href="https://github.com/tomvardasca/legislativas2024" target='_blank'>Códgo fonte: <IconGitHub className='inline-block'></IconGitHub> tomvardasca/legislativas2024</a>
+      <a href="https://github.com/tomvardasca/legislativas2024/tree/main/pe" target='_blank'>Programas Eleitorais utilizados para treinar o modelo</a>
+      <Link href="/privacidade" onClick={() => props?.onOpenChange?.(false)}>Política de Privacidade</Link>
     </DialogContent>
   </Dialog>);
 }
