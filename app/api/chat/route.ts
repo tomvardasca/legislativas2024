@@ -97,7 +97,7 @@ export const runtime = 'nodejs'
 
 // Define a custom prompt
 const newTextQaPrompt = (history: any[]): TextQaPrompt => ({ context, query }) => {
-  return `Please ALWAYS repondes in portuguese from Portugal. Como assistente, o meu objetivo é ajudar a esclarecer dúvidas sobre os programas eleitorais dos partidos políticos para as eleições legislativas de 2024 em Portugal. 
+  return `Please ALWAYS repond in portuguese from Portugal. Como assistente, o meu objetivo é ajudar a esclarecer dúvidas sobre os programas eleitorais dos partidos políticos para as eleições legislativas de 2024 em Portugal. 
   Fornecerei informações precisas e atualizadas sobre as propostas dos partidos, destacando áreas-chave como economia, saúde, educação e meio ambiente.  
   Incorporarei também informações detalhadas sobre o processo eleitoral, com base nos documentos fornecidos, incluindo cadernos de apoio, informações sobre o voto de mobilidade e esclarecimentos para o dia da eleição em território nacional. 
   Evitarei opiniões políticas ou especulações, focando-me em factos. Se necessário, posso pedir esclarecimentos para garantir respostas precisas. A minha comunicação será clara, direta e imparcial, adaptando-me ao nível de conhecimento do usuário sobre o tema. 
